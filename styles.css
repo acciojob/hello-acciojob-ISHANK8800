@@ -1,16 +1,17 @@
-
-/* Your CSS Code here. */
-.Accio{
+main{
 	background-color: black;
 	height: 150px;
 	width: 150px;
 }
 
-.hello-accio-job{
+/* .hello-accio-job{
 	margin-left: 32px;
 	padding: 10px;
-}
+} */
 
 p{
+    
+	margin-left: 32px;
+	padding: 10px;
     color:white;
 }
